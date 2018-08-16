@@ -5,5 +5,8 @@
   "repository": "https://github.com/cpave3/room.git",
   "author": "Cameron Pavey <cpave3@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
 }
